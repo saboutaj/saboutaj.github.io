@@ -31,6 +31,6 @@ I am a Ph.D. candidate in Economics at Princeton University. My research interes
 
 My current work studies the role of trade rationing as industrial policy in Europe's postwar productivity convergence (with Victor Degorce), and household adaptation to climate risk through the returns to wind-resilient construction.
 
-Before Princeton, I completed the MSc in Econometrics and Mathematical Economics at the London School of Economics and a B.S. and MSc in Economics and Statistics at ENSAE (Institut Polytechnique de Paris). I have also held research positions at the Collège de France and the International Growth Centre.
+Before Princeton, I completed the MSc in Econometrics and Mathematical Economics at the London School of Economics, and I studied applied mathematics and economics at ENSAE (Institut Polytechnique de Paris). I have also held research positions at the Collège de France and the International Growth Centre.
 
-You can reach me at [s.aboutajdine@princeton.edu](mailto:s.aboutajdine@princeton.edu).
+Here is my [**CV (PDF)**](/assets/pdf/cv.pdf). You can reach me at [s.aboutajdine@princeton.edu](mailto:s.aboutajdine@princeton.edu).

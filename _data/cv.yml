@@ -48,7 +48,7 @@ cv:
           - "Relevant coursework: Theory of Differential Equations, Numerical Analysis, Probability Modeling, Differential Calculus and Optimization."
           - Completed simultaneously with the B.S. at ENSAE (only ENSAE student to do so).
 
-    Work Experience:
+    Experience:
       - company: Princeton University
         position: Graduate Teaching Assistant
         location: Princeton, NJ
@@ -85,33 +85,15 @@ cv:
         summary: Development Economics. Leveraged micro-level datasets to analyze the determinants of trust in medical science. Co-authored a paper published in Nature Medicine on the incentives for Covid-19 vaccination in developing countries.
 
     Conferences and Seminar Presentations:
-      - title: Lindau Nobel Laureate Meetings for Economics
-        date: 2025
-
-      - title: AEA ASSA 2024; Insead–Collège de France joint seminar
-        date: 2024
+      - bullet: "**2025** — Lindau Nobel Laureate Meetings for Economics."
+      - bullet: "**2024** — AEA ASSA 2024; Insead–Collège de France joint seminar."
 
     Grants, Awards and Scholarships:
-      - title: Griswold Center for Public Policy (GCEPS) Graduate Fellow
-        date: 2026
-
-      - title: PECS Scholar at Princeton's High Meadows Environmental Institute
-        date: 2025
-
-      - title: Data-Driven Social Science (Princeton) Small-Scale research grant for "Exchange Rationing as Industrial Policy", co-authored with Victor Degorce
-        date: 2025
-
-      - title: Program for Research on Inequality grant ($3,600), 1 of 4 Princeton students awarded
-        date: 2024
-
-      - title: Exchange Year Scholarship, awarded to ENSAE's best academic study abroad projects
-        date: 2021
-
-      - title: Scholarship for LSE's MSc EME
-        date: 2020
-
-      - title: Member of Goodenough College
-        date: 2020
-
-      - title: Excellence Scholarship from the OCP Group Foundation, covering college tuition fees and living expenses, granted to top Moroccan students
-        date: 2018
+      - bullet: "**2026** — Griswold Center for Public Policy (GCEPS) Graduate Fellow."
+      - bullet: "**2025** — PECS Scholar at Princeton's High Meadows Environmental Institute."
+      - bullet: "**2025** — Data-Driven Social Science (Princeton): Small-Scale research grant for *Exchange Rationing as Industrial Policy*, co-authored with Victor Degorce."
+      - bullet: "**2024** — 1 of 4 Princeton students awarded a Program for Research on Inequality grant ($3,600)."
+      - bullet: "**2021–2022** — Exchange Year Scholarship, awarded to ENSAE's best academic study abroad projects."
+      - bullet: "**2020–2021** — Scholarship for LSE's MSc EME."
+      - bullet: "**2020–2021** — Member of Goodenough College."
+      - bullet: "**2018–2021** — Excellence Scholarship from the OCP Group Foundation, covering college tuition fees and living expenses, granted to top Moroccan students."

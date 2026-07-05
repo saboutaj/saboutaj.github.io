@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in Economics at Princeton University. My research interests are in macroeconomics, industrial policy, and environmental economics.
+I am a fifth-year Ph.D. candidate in Economics at Princeton University. My research interests are in macroeconomics, industrial policy, and environmental economics. I will be on the job market during the 2027–2028 academic cycle.
 
 My current work studies the role of trade rationing as industrial policy in Europe's postwar productivity convergence (with Victor Degorce), and household adaptation to climate risk through the returns to wind-resilient construction.
 
